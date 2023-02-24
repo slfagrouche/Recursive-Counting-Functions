@@ -16,5 +16,9 @@ To use any of these functions, simply call the function with the appropriate arg
 This will output a count starting from 1 and ending at 4.
 
 ## Testing
-The repository also includes test cases for each of the four functions. To run the tests, simply run the test.py file:
+The repository also includes test cases for each of the four functions. To run the tests, simply run the test.py file: 
+#### python test.py
+This will run the tests and output the results to the console.
 
+## Contributions
+Contributions to this repository are welcome. If you find a bug or would like to add a feature, please feel free to submit a pull request.
